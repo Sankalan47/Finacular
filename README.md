@@ -16,7 +16,7 @@ Created this Admin Dashboard UI that others can use and help them to start their
 
 ## Screenshots
 
-<img src="public/screenshot .png">
+<img src="public/Screenshot .png">
 
 ## Tech/ Framework Used
 
